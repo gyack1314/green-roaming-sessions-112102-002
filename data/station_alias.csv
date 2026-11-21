@@ -1,0 +1,4 @@
+operator,local,connector,port,valid_from,valid_to
+A,S1,1,PORT1,2026-01-01,2026-11-02T00:00:00+08:00
+A,S1,7,PORT1,2026-11-02T00:00:00+08:00,2027-01-01
+B,S1,1,PORT9,2026-01-01,2027-01-01

@@ -1,0 +1,130 @@
+{
+  "synthetic": true,
+  "files": [
+    {
+      "path": "data/station_alias.csv",
+      "rows": 3,
+      "columns": [
+        "operator",
+        "local",
+        "connector",
+        "port",
+        "valid_from",
+        "valid_to"
+      ],
+      "sha256": "c712bd44c457bbf7a54f5748b8356a43d35fad86eefd96b65791f1d658d3de9c",
+      "stage": "original"
+    },
+    {
+      "path": "data/telemetry.jsonl",
+      "rows": 6,
+      "columns": [
+        "boot",
+        "connector",
+        "event",
+        "kind",
+        "local",
+        "meter_wh",
+        "operator",
+        "session",
+        "time"
+      ],
+      "sha256": "329da18893ace478cd5e63ef30222d341edb89d8f402f6b4ad3f7357b047cd5b",
+      "stage": "original"
+    },
+    {
+      "path": "data/bridges.csv",
+      "rows": 1,
+      "columns": [
+        "port",
+        "from_boot",
+        "to_boot",
+        "old_wh",
+        "new_wh",
+        "time"
+      ],
+      "sha256": "b9c62e0802a97ed0923493f5b3e9f177444fcfe4a991bb1f0298c767177c209e",
+      "stage": "original"
+    },
+    {
+      "path": "data/authorizations.jsonl",
+      "rows": 2,
+      "columns": [
+        "auth",
+        "end",
+        "operator",
+        "provider",
+        "start",
+        "status",
+        "vehicle"
+      ],
+      "sha256": "dc688fdf4b3fc9f88099d6839514d5c7df0592d394185f563be0d2653a989698",
+      "stage": "original"
+    },
+    {
+      "path": "data/cdr.jsonl",
+      "rows": 2,
+      "columns": [
+        "amount_minor",
+        "auth",
+        "cdr",
+        "currency",
+        "kwh",
+        "operator",
+        "parts",
+        "provider",
+        "received_at",
+        "revision",
+        "supersedes",
+        "vehicle"
+      ],
+      "sha256": "1061859e1a3bc24c97b9d45a73cbdcd72946a9868acf9627e402d1909670ea89",
+      "stage": "original"
+    },
+    {
+      "path": "data/confirmations.jsonl",
+      "rows": 2,
+      "columns": [
+        "accepted_parts",
+        "at",
+        "cdr",
+        "confirmation",
+        "operator",
+        "party",
+        "revision",
+        "status"
+      ],
+      "sha256": "ebb0fb5e16e15692d88324e1d1d9da7bd949d269073e06106fc7e10992a98b3b",
+      "stage": "original"
+    },
+    {
+      "path": "data/claims.jsonl",
+      "rows": 1,
+      "columns": [
+        "at",
+        "candidates",
+        "cdr",
+        "claim",
+        "operator",
+        "reason",
+        "revision",
+        "selected"
+      ],
+      "sha256": "d097fa45dcba45ed2a8ff2eaf40a151050212956021bd0db9e4a01f69231e9bd",
+      "stage": "original"
+    },
+    {
+      "path": "data/updates/bridges.jsonl",
+      "rows": 1,
+      "columns": [
+        "action",
+        "at",
+        "from_boot",
+        "port",
+        "to_boot"
+      ],
+      "sha256": "3dd840fa161dadf40ed9d7febe95012f3550c62616c6242de2a00e7ee6d30178",
+      "stage": "supplement"
+    }
+  ]
+}

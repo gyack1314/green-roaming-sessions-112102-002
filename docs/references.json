@@ -1,0 +1,14 @@
+[
+  {
+    "source": "data/cdr.jsonl",
+    "source_key": "auth",
+    "target": "data/authorizations.jsonl",
+    "target_key": "auth"
+  },
+  {
+    "source": "data/bridges.csv",
+    "source_key": "port",
+    "target": "data/station_alias.csv",
+    "target_key": "port"
+  }
+]

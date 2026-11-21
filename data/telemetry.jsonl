@@ -1,0 +1,6 @@
+{"event":"T1","operator":"A","local":"S1","connector":"1","boot":"U1","kind":"start","time":"2026-11-01T23:40:00+08:00","meter_wh":100000,"session":"X1"}
+{"event":"T2","operator":"A","local":"S1","connector":"1","boot":"U1","kind":"sample","time":"2026-11-02T00:00:00+08:00","meter_wh":104000,"session":"X1"}
+{"event":"T3","operator":"A","local":"S1","connector":"7","boot":"U2","kind":"sample","time":"2026-11-02T00:00:00+08:00","meter_wh":0,"session":"X2"}
+{"event":"T4","operator":"A","local":"S1","connector":"7","boot":"U2","kind":"stop","time":"2026-11-02T00:30:00+08:00","meter_wh":6000,"session":"X2"}
+{"event":"T5","operator":"B","local":"S1","connector":"1","boot":"B1","kind":"start","time":"2026-11-02T00:00:00+08:00","meter_wh":0,"session":"X1"}
+{"event":"T6","operator":"B","local":"S1","connector":"1","boot":"B1","kind":"stop","time":"2026-11-02T00:30:00+08:00","meter_wh":4000,"session":"X1"}

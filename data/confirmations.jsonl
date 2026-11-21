@@ -1,2 +1,4 @@
 {"confirmation":"F1","party":"operator","operator":"A","cdr":"77","revision":1,"accepted_parts":["X1","X2"],"status":"accept","at":"2026-11-04"}
 {"confirmation":"F2","party":"provider","operator":"A","cdr":"77","revision":1,"accepted_parts":["X1"],"status":"accept","at":"2026-11-05"}
+{"confirmation":"FB1","party":"operator","operator":"B","cdr":"77","revision":1,"accepted_parts":["X1"],"status":"accept","at":"2026-11-04"}
+{"confirmation":"FB2","party":"provider","operator":"B","cdr":"77","revision":1,"accepted_parts":["X1"],"status":"accept","at":"2026-11-04"}

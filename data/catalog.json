@@ -83,7 +83,7 @@
     },
     {
       "path": "data/confirmations.jsonl",
-      "rows": 2,
+      "rows": 4,
       "columns": [
         "accepted_parts",
         "at",
@@ -94,7 +94,7 @@
         "revision",
         "status"
       ],
-      "sha256": "7df74cc84012d4ea4b94992254bf25468b6508531abe9976271d43c8541ff32c",
+      "sha256": "2bdf11cc771326957a3c37f4eb06881893b10bdde0525d49050ed091e1434542",
       "stage": "original"
     },
     {

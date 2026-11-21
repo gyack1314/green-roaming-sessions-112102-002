@@ -29,7 +29,7 @@
         "session",
         "time"
       ],
-      "sha256": "329da18893ace478cd5e63ef30222d341edb89d8f402f6b4ad3f7357b047cd5b",
+      "sha256": "50502ebdb29a78c307495132076f03d9d84adf474ce0158860ab9c0443db222c",
       "stage": "original"
     },
     {
@@ -58,7 +58,7 @@
         "status",
         "vehicle"
       ],
-      "sha256": "dc688fdf4b3fc9f88099d6839514d5c7df0592d394185f563be0d2653a989698",
+      "sha256": "3704fb11c94ed5f93ee4f8ec824100eaef1ba3922270af098bcdff34d7db66cb",
       "stage": "original"
     },
     {
@@ -78,7 +78,7 @@
         "supersedes",
         "vehicle"
       ],
-      "sha256": "1061859e1a3bc24c97b9d45a73cbdcd72946a9868acf9627e402d1909670ea89",
+      "sha256": "a26a9db1ede7f0dcf5936cfe1bfda87830041c72ecc8400b0a67ae039527f7ea",
       "stage": "original"
     },
     {
@@ -94,7 +94,7 @@
         "revision",
         "status"
       ],
-      "sha256": "ebb0fb5e16e15692d88324e1d1d9da7bd949d269073e06106fc7e10992a98b3b",
+      "sha256": "7df74cc84012d4ea4b94992254bf25468b6508531abe9976271d43c8541ff32c",
       "stage": "original"
     },
     {
@@ -110,7 +110,7 @@
         "revision",
         "selected"
       ],
-      "sha256": "d097fa45dcba45ed2a8ff2eaf40a151050212956021bd0db9e4a01f69231e9bd",
+      "sha256": "394b6594d65059b17842be5d6528c46db0dd0c5cd91b0951d727483f4cd7f827",
       "stage": "original"
     },
     {
@@ -123,7 +123,7 @@
         "port",
         "to_boot"
       ],
-      "sha256": "3dd840fa161dadf40ed9d7febe95012f3550c62616c6242de2a00e7ee6d30178",
+      "sha256": "0cc1f89497f79d0949667304642d24a2fc4675444ca6f0d8ee732851388640b2",
       "stage": "supplement"
     }
   ]
